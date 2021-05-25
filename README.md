@@ -1,5 +1,5 @@
  [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQFO-0K2EfBISw/profile-displaybackgroundimage-shrink_350_1400/0/1600512196844?e=1627516800&v=beta&t=FFUWQNSLmIBD539E6LISs7d33g6LZEMEtyfDxUjr7jU)](https://www.linkedin.com/in/saurabhsaini400/)
- <h1 align="center">Hi 👋, I'm SAURABH SAINI</h1>
+ <h1 align="center">Hi<img alt="Coding" width="50" height="50" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm SAURABH SAINI</h1>
 <h3 align="center">A passionate frontend developer and an educator from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsaini400&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsaini400" /> </p>
@@ -7,13 +7,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhsaini400" alt="saurabhsaini400" /></a> </p> -->
 
-- 💻 I’m currently working on **GithubProfileFinder**
+- <img width="70" align="center" src="https://i.pinimg.com/originals/44/f0/02/44f002166db0c224c90703f18a659dae.gif" />  I’m currently working on **GithubProfileFinder**
 
-- 💬 Ask me about **C++,C,HTML,CSS**
+- <img width="70" align="center" src="https://media.giphy.com/media/WsSFNQkz3t9kJ8Ivnu/giphy.gif" /> Ask me about **C++,C,HTML,CSS**
 
-- 📧 How to reach me **saurabhsaini400@gmail.com**
+- <img width="70" align="center" src="https://cdn.dribbble.com/users/500317/screenshots/1791174/goodmail.gif" /> How to reach me **saurabhsaini400@gmail.com**
 
-- 😀 Fun fact **Code is Fun, Fun is code**
+- <img width="70" align="center" src="https://images.gamebanana.com/img/ico/sprays/5a9cb39e54e63.gif" /> Fun fact **Code is Fun, Fun is code**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
