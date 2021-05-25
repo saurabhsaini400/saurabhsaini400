@@ -13,7 +13,7 @@
 
 - 📧 How to reach me **saurabhsaini400@gmail.com**
 
-- 😀 Fun fact **I Think I am Funny**
+- 😀 Fun fact **Code is Fun, Fun is code**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
