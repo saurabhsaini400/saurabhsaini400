@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer and an educator from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsaini400&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsaini400" /> </p>
-<img align="right" alt="Coding" width="500" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhsaini400" alt="saurabhsaini400" /></a> </p> -->
 
