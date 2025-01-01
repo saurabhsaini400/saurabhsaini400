@@ -9,7 +9,7 @@
 
 - <img width="70" align="center" src="https://i.pinimg.com/originals/44/f0/02/44f002166db0c224c90703f18a659dae.gif" />  I’m currently working on **Java Springboot**
 
-- <img width="70" align="center" src="https://media.giphy.com/media/WsSFNQkz3t9kJ8Ivnu/giphy.gif" /> Ask me about **Java,C++,C,HTML,CSS**
+- <img width="70" align="center" src="https://media.giphy.com/media/WsSFNQkz3t9kJ8Ivnu/giphy.gif" /> Ask me about **Java,Springboot,Microservices,C++,C**
 
 - <img width="70" align="center" src="https://cdn.dribbble.com/users/500317/screenshots/1791174/goodmail.gif" /> How to reach me **saurabhsaini400@gmail.com**
 
