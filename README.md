@@ -1,4 +1,4 @@
- [![MasterHead](https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&amp;v=beta&amp;t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA)](https://www.linkedin.com/in/saurabhsaini400/)
+ [![MasterHead](https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=2159024400&amp;v=beta&amp;t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA)](https://www.linkedin.com/in/saurabhsaini400/)
  <h1 align="center">Hi<img alt="Coding" width="30" height="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm SAURABH SAINI</h1>
 <h3 align="center">A passionate frontend developer and an educator from India.</h3>
 
