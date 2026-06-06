@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/iamsaurabhsaini" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8824&format=png&color=000000" alt="iamsaurabhsaini" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saurabhsaini400" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saurabhsaini400" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="isaurabhsaini" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saurabhsaini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saurabhsaini" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saurabhsaini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="saurabhsaini400" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saurabhsaini400" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="saurabhsaini400" height="30" width="40" /></a>
